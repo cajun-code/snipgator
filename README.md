@@ -1,0 +1,2 @@
+# snipgator
+Snippit manager 
